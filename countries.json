@@ -1,0 +1,1182 @@
+[
+    {
+        "_id": "64fc8fe1d277aad5508425b1",
+        "code": "+93",
+        "name": "Afghanistan"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425b8",
+        "code": "+1 268",
+        "name": "Antigua and Barbuda"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425be",
+        "code": "+672",
+        "name": "Australian External Territories"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425bb",
+        "code": "+297",
+        "name": "Aruba"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425c1",
+        "code": "+1 242",
+        "name": "Bahamas"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425d3",
+        "code": "+359",
+        "name": "Bulgaria"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425e2",
+        "code": "+269",
+        "name": "Comoros"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425c8",
+        "code": "+501",
+        "name": "Belize"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425c9",
+        "code": "+229",
+        "name": "Benin"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425ea",
+        "code": "+537",
+        "name": "Cyprus"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425ec",
+        "code": "+45",
+        "name": "Denmark"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842610",
+        "code": "+595",
+        "name": "Guyana"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842628",
+        "code": "+961",
+        "name": "Lebanon"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842634",
+        "code": "+960",
+        "name": "Maldives"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084263f",
+        "code": "+373",
+        "name": "Moldova"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842664",
+        "code": "+40",
+        "name": "Romania"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842667",
+        "code": "+685",
+        "name": "Samoa"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842669",
+        "code": "+966",
+        "name": "Saudi Arabia"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842690",
+        "code": "+1",
+        "name": "United States"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842695",
+        "code": "+84",
+        "name": "Vietnam"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842697",
+        "code": "+681",
+        "name": "Wallis and Futuna"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425d4",
+        "code": "+226",
+        "name": "Burkina Faso"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425dd",
+        "code": "+56",
+        "name": "Chile"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425e0",
+        "code": "+61",
+        "name": "Cocos-Keeling Islands"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425e6",
+        "code": "+506",
+        "name": "Costa Rica"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425e9",
+        "code": "+599",
+        "name": "Curacao"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842601",
+        "code": "+689",
+        "name": "French Polynesia"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084260d",
+        "code": "+502",
+        "name": "Guatemala"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842619",
+        "code": "+964",
+        "name": "Iraq"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842633",
+        "code": "+60",
+        "name": "Malaysia"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842639",
+        "code": "+222",
+        "name": "Mauritania"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842640",
+        "code": "+377",
+        "name": "Monaco"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084264a",
+        "code": "+599",
+        "name": "Netherlands Antilles"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084266e",
+        "code": "+65",
+        "name": "Singapore"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842681",
+        "code": "+670",
+        "name": "Timor Leste"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425df",
+        "code": "+61",
+        "name": "Christmas Island"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425e5",
+        "code": "+682",
+        "name": "Cook Islands"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425fe",
+        "code": "+33",
+        "name": "France"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084261a",
+        "code": "+353",
+        "name": "Ireland"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084261b",
+        "code": "+972",
+        "name": "Israel"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842629",
+        "code": "+266",
+        "name": "Lesotho"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084263d",
+        "code": "+691",
+        "name": "Micronesia"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842643",
+        "code": "+1664",
+        "name": "Montserrat"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084264d",
+        "code": "+64",
+        "name": "New Zealand"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084265e",
+        "code": "+63",
+        "name": "Philippines"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084266b",
+        "code": "+381",
+        "name": "Serbia"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842691",
+        "code": "+598",
+        "name": "Uruguay"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425e8",
+        "code": "+53",
+        "name": "Cuba"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425bf",
+        "code": "+43",
+        "name": "Austria"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425f6",
+        "code": "+240",
+        "name": "Equatorial Guinea"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842611",
+        "code": "+509",
+        "name": "Haiti"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425c2",
+        "code": "+973",
+        "name": "Bahrain"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842616",
+        "code": "+91",
+        "name": "India"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842650",
+        "code": "+234",
+        "name": "Nigeria"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425d0",
+        "code": "+246",
+        "name": "British Indian Ocean Territory"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842657",
+        "code": "+92",
+        "name": "Pakistan"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842665",
+        "code": "+7",
+        "name": "Russia"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425d5",
+        "code": "+257",
+        "name": "Burundi"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425eb",
+        "code": "+420",
+        "name": "Czech Republic"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084269b",
+        "code": "+263",
+        "name": "Zimbabwe"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842607",
+        "code": "+350",
+        "name": "Gibraltar"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084260a",
+        "code": "+1 473",
+        "name": "Grenada"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842638",
+        "code": "+596",
+        "name": "Martinique"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084264e",
+        "code": "+505",
+        "name": "Nicaragua"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842652",
+        "code": "+672",
+        "name": "Norfolk Island"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842654",
+        "code": "+1 670",
+        "name": "Northern Mariana Islands"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084265d",
+        "code": "+51",
+        "name": "Peru"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842662",
+        "code": "+974",
+        "name": "Qatar"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842676",
+        "code": "+94",
+        "name": "Sri Lanka"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842679",
+        "code": "+268",
+        "name": "Swaziland"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084268c",
+        "code": "+256",
+        "name": "Uganda"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425d8",
+        "code": "+1",
+        "name": "Canada"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425e4",
+        "code": "+243",
+        "name": "Congo, Dem. Rep. of (Zaire)"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425f4",
+        "code": "+20",
+        "name": "Egypt"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425f9",
+        "code": "+251",
+        "name": "Ethiopia"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842630",
+        "code": "+389",
+        "name": "Macedonia"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084264c",
+        "code": "+687",
+        "name": "New Caledonia"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842666",
+        "code": "+250",
+        "name": "Rwanda"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842675",
+        "code": "+34",
+        "name": "Spain"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842692",
+        "code": "+998",
+        "name": "Uzbekistan"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842693",
+        "code": "+678",
+        "name": "Vanuatu"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842698",
+        "code": "+967",
+        "name": "Yemen"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425e3",
+        "code": "+242",
+        "name": "Congo"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425e7",
+        "code": "+385",
+        "name": "Croatia"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425f7",
+        "code": "+291",
+        "name": "Eritrea"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842603",
+        "code": "+220",
+        "name": "Gambia"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842604",
+        "code": "+995",
+        "name": "Georgia"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084260f",
+        "code": "+245",
+        "name": "Guinea-Bissau"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842622",
+        "code": "+254",
+        "name": "Kenya"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842624",
+        "code": "+965",
+        "name": "Kuwait"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842625",
+        "code": "+996",
+        "name": "Kyrgyzstan"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084265b",
+        "code": "+675",
+        "name": "Papua New Guinea"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842663",
+        "code": "+262",
+        "name": "Reunion"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842674",
+        "code": "+82",
+        "name": "South Korea"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842677",
+        "code": "+249",
+        "name": "Sudan"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084267f",
+        "code": "+255",
+        "name": "Tanzania"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084268e",
+        "code": "+971",
+        "name": "United Arab Emirates"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425b6",
+        "code": "+244",
+        "name": "Angola"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425b4",
+        "code": "+1 684",
+        "name": "American Samoa"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425c6",
+        "code": "+375",
+        "name": "Belarus"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425db",
+        "code": "+236",
+        "name": "Central African Republic"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425e1",
+        "code": "+57",
+        "name": "Colombia"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425ef",
+        "code": "+1 767",
+        "name": "Dominica"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842606",
+        "code": "+233",
+        "name": "Ghana"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084260c",
+        "code": "+1 671",
+        "name": "Guam"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842626",
+        "code": "+856",
+        "name": "Laos"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084262b",
+        "code": "+218",
+        "name": "Libya"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842637",
+        "code": "+692",
+        "name": "Marshall Islands"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842658",
+        "code": "+680",
+        "name": "Palau"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084267c",
+        "code": "+963",
+        "name": "Syria"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842686",
+        "code": "+216",
+        "name": "Tunisia"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084268b",
+        "code": "+1 340",
+        "name": "U.S. Virgin Islands"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084268f",
+        "code": "+44",
+        "name": "United Kingdom"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425b5",
+        "code": "+376",
+        "name": "Andorra"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425c3",
+        "code": "+880",
+        "name": "Bangladesh"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425f0",
+        "code": "+1 809",
+        "name": "Dominican Republic"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425fa",
+        "code": "+500",
+        "name": "Falkland Islands"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842600",
+        "code": "+594",
+        "name": "French Guiana"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084262a",
+        "code": "+231",
+        "name": "Liberia"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084263a",
+        "code": "+230",
+        "name": "Mauritius"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084263c",
+        "code": "+52",
+        "name": "Mexico"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842645",
+        "code": "+95",
+        "name": "Myanmar"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842646",
+        "code": "+264",
+        "name": "Namibia"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842647",
+        "code": "+674",
+        "name": "Nauru"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084264f",
+        "code": "+227",
+        "name": "Niger"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842660",
+        "code": "+351",
+        "name": "Portugal"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084266c",
+        "code": "+248",
+        "name": "Seychelles"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842673",
+        "code": "+500",
+        "name": "South Georgia and the South Sandwich Islands"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842685",
+        "code": "+1 868",
+        "name": "Trinidad and Tobago"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084269a",
+        "code": "+255",
+        "name": "Zanzibar"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425fb",
+        "code": "+298",
+        "name": "Faroe Islands"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084260e",
+        "code": "+224",
+        "name": "Guinea"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842615",
+        "code": "+354",
+        "name": "Iceland"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084262e",
+        "code": "+352",
+        "name": "Luxembourg"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842641",
+        "code": "+976",
+        "name": "Mongolia"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842642",
+        "code": "+382",
+        "name": "Montenegro"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842656",
+        "code": "+968",
+        "name": "Oman"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084266a",
+        "code": "+221",
+        "name": "Senegal"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842672",
+        "code": "+27",
+        "name": "South Africa"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425ba",
+        "code": "+374",
+        "name": "Armenia"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425b3",
+        "code": "+213",
+        "name": "Algeria"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425b0",
+        "code": "+7 840",
+        "name": "Abkhazia"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425b7",
+        "code": "+1 264",
+        "name": "Anguilla"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425b2",
+        "code": "+355",
+        "name": "Albania"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425c0",
+        "code": "+994",
+        "name": "Azerbaijan"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425bd",
+        "code": "+61",
+        "name": "Australia"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425fd",
+        "code": "+358",
+        "name": "Finland"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425ce",
+        "code": "+267",
+        "name": "Botswana"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425ff",
+        "code": "+596",
+        "name": "French Antilles"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425dc",
+        "code": "+235",
+        "name": "Chad"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425f5",
+        "code": "+503",
+        "name": "El Salvador"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842612",
+        "code": "+504",
+        "name": "Honduras"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842602",
+        "code": "+241",
+        "name": "Gabon"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842614",
+        "code": "+36",
+        "name": "Hungary"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842636",
+        "code": "+356",
+        "name": "Malta"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842618",
+        "code": "+98",
+        "name": "Iran"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842655",
+        "code": "+47",
+        "name": "Norway"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084261c",
+        "code": "+39",
+        "name": "Italy"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842671",
+        "code": "+677",
+        "name": "Solomon Islands"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084261d",
+        "code": "+225",
+        "name": "Ivory Coast"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084268d",
+        "code": "+380",
+        "name": "Ukraine"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084262c",
+        "code": "+423",
+        "name": "Liechtenstein"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084262f",
+        "code": "+853",
+        "name": "Macau SAR China"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842653",
+        "code": "+850",
+        "name": "North Korea"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084265a",
+        "code": "+507",
+        "name": "Panama"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842670",
+        "code": "+386",
+        "name": "Slovenia"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842687",
+        "code": "+90",
+        "name": "Turkey"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084268a",
+        "code": "+688",
+        "name": "Tuvalu"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842694",
+        "code": "+58",
+        "name": "Venezuela"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842696",
+        "code": "+1 808",
+        "name": "Wake Island"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425c4",
+        "code": "+1 246",
+        "name": "Barbados"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425cd",
+        "code": "+387",
+        "name": "Bosnia and Herzegovina"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425cf",
+        "code": "+55",
+        "name": "Brazil"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425d9",
+        "code": "+238",
+        "name": "Cape Verde"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425ed",
+        "code": "+246",
+        "name": "Diego Garcia"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425f3",
+        "code": "+593",
+        "name": "Ecuador"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425fc",
+        "code": "+679",
+        "name": "Fiji"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842613",
+        "code": "+852",
+        "name": "Hong Kong SAR China"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842621",
+        "code": "+7 7",
+        "name": "Kazakhstan"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842627",
+        "code": "+371",
+        "name": "Latvia"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842631",
+        "code": "+261",
+        "name": "Madagascar"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084263e",
+        "code": "+1 808",
+        "name": "Midway Island"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842649",
+        "code": "+31",
+        "name": "Netherlands"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084265f",
+        "code": "+48",
+        "name": "Poland"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842668",
+        "code": "+378",
+        "name": "San Marino"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425ca",
+        "code": "+1 441",
+        "name": "Bermuda"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425de",
+        "code": "+86",
+        "name": "China"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425ee",
+        "code": "+253",
+        "name": "Djibouti"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425f8",
+        "code": "+372",
+        "name": "Estonia"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084260b",
+        "code": "+590",
+        "name": "Guadeloupe"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842617",
+        "code": "+62",
+        "name": "Indonesia"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842623",
+        "code": "+686",
+        "name": "Kiribati"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084262d",
+        "code": "+370",
+        "name": "Lithuania"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842635",
+        "code": "+223",
+        "name": "Mali"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084266d",
+        "code": "+232",
+        "name": "Sierra Leone"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084266f",
+        "code": "+421",
+        "name": "Slovakia"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842678",
+        "code": "+597",
+        "name": "Suriname"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084267b",
+        "code": "+41",
+        "name": "Switzerland"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084267d",
+        "code": "+886",
+        "name": "Taiwan"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842682",
+        "code": "+228",
+        "name": "Togo"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842684",
+        "code": "+676",
+        "name": "Tonga"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842688",
+        "code": "+993",
+        "name": "Turkmenistan"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842689",
+        "code": "+1 649",
+        "name": "Turks and Caicos Islands"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425b9",
+        "code": "+54",
+        "name": "Argentina"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425bc",
+        "code": "+247",
+        "name": "Ascension"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425d7",
+        "code": "+237",
+        "name": "Cameroon"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842608",
+        "code": "+30",
+        "name": "Greece"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842609",
+        "code": "+299",
+        "name": "Greenland"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084261e",
+        "code": "+1 876",
+        "name": "Jamaica"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842644",
+        "code": "+212",
+        "name": "Morocco"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084264b",
+        "code": "+1 869",
+        "name": "Nevis"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084265c",
+        "code": "+595",
+        "name": "Paraguay"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084267a",
+        "code": "+46",
+        "name": "Sweden"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842680",
+        "code": "+66",
+        "name": "Thailand"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842699",
+        "code": "+260",
+        "name": "Zambia"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425c5",
+        "code": "+1 268",
+        "name": "Barbuda"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425c7",
+        "code": "+32",
+        "name": "Belgium"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425cb",
+        "code": "+975",
+        "name": "Bhutan"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425cc",
+        "code": "+591",
+        "name": "Bolivia"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425d1",
+        "code": "+1 284",
+        "name": "British Virgin Islands"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425d2",
+        "code": "+673",
+        "name": "Brunei"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425d6",
+        "code": "+855",
+        "name": "Cambodia"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425da",
+        "code": "+ 345",
+        "name": "Cayman Islands"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425f1",
+        "code": "+670",
+        "name": "East Timor"
+    },
+    {
+        "_id": "64fc8fe1d277aad5508425f2",
+        "code": "+56",
+        "name": "Easter Island"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842605",
+        "code": "+49",
+        "name": "Germany"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084261f",
+        "code": "+81",
+        "name": "Japan"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842620",
+        "code": "+962",
+        "name": "Jordan"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842632",
+        "code": "+265",
+        "name": "Malawi"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084263b",
+        "code": "+262",
+        "name": "Mayotte"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842648",
+        "code": "+977",
+        "name": "Nepal"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842651",
+        "code": "+683",
+        "name": "Niue"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842659",
+        "code": "+970",
+        "name": "Palestinian Territory"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842661",
+        "code": "+1 787",
+        "name": "Puerto Rico"
+    },
+    {
+        "_id": "64fc8fe1d277aad55084267e",
+        "code": "+992",
+        "name": "Tajikistan"
+    },
+    {
+        "_id": "64fc8fe1d277aad550842683",
+        "code": "+690",
+        "name": "Tokelau"
+    }
+]
